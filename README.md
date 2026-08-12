@@ -4,7 +4,7 @@ An AI-powered resume analysis workflow built with **n8n**. It analyzes a
 resume based on the user's target role and optional job description,
 then provides a structured, human-readable report.
 
-![Workflow](screenshots/workflow.png)
+![Workflow Overview](Screenshot/Workflow-overview.png)
 
 ## 🔄 Workflow
 
@@ -71,7 +71,7 @@ The workflow can be customized for different use cases such as:
 -   **Structured Output Parser** -- Structured AI response
 -   **JavaScript** -- Report formatting
 -   **Chat Trigger** -- User interaction
--   **HTML to PDF** -- PDF report generation
+   
 
 ## 🚀 Future Development
 
@@ -92,7 +92,11 @@ AI_Resume_Analyzer/
 ├── workflow.json
 ├── README.md
 └── screenshots/
-    └── workflow.png
+    └── workflow-overview.png
+    └── AI-Agent Parser.png
+    └── chat-box.png
+    └── chat-input.png
+    └── Analysis-report.png
 ```
 
 ## ⚙️ Setup
@@ -116,4 +120,3 @@ should be reviewed by the user before making career decisions.
 
 **Shivam Kumar**
 
-Built as an AI automation / n8n workflow project.
