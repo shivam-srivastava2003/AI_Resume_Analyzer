@@ -4,7 +4,7 @@ An AI-powered resume analysis workflow built with **n8n**. It analyzes a
 resume based on the user's target role and optional job description,
 then provides a structured, human-readable report.
 
-![Workflow Overview](Screenshot/Workflow-overview.png)
+![Workflow Overview](Screenshots/Workflow-overview.png)
 
 ## 🔄 Workflow
 
