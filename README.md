@@ -2,7 +2,7 @@
 
 An AI-powered Resume Analyzer built with *n8n* that analyzes a resume based on the user's *target job role* and optional *Job Description (JD)*.
 
-![AI Resume Analyzer Workflow](screenshots/01-workflow-overview.png)
+![AI Resume Analyzer Workflow](screenshots/Workflow-overview.png)
 
 ---
 
@@ -59,7 +59,7 @@ Resume + Target Role + JD
           ↓
       Respond in chat
 
-## ✨ Features
+## ✨ **Features**
 
   📄 Resume PDF Upload
   🎯 Target Role Analysis
@@ -74,7 +74,7 @@ Resume + Target Role + JD
 📄 PDF Report Generation
 
 
-## 🧠 Tech Stack
+## 🧠 **Tech Stack**
 
  - n8n — Workflow automation
  - AI Agent — Resume analysis
